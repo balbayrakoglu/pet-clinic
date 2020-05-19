@@ -2,8 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9a60a79-5d2d-41c5-9b56-468a6d8952bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/example/sfgpetclinic/model/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/CrudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/banner.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/OwnerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/OwnerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/PetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/PetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/VetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/VetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/model/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/model/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/model/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/model/PetType.class" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/model/PetType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/pet-clinic-data-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/pet-clinic-data-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/pet-clinic-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/pet-clinic-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-com.example.sfgpetclinic.SfgPetClinicApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-com.example.sfgpetclinic.SfgPetClinicApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/com.example.sfgpetclinic.SfgPetClinicApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/com.example.sfgpetclinic.SfgPetClinicApplicationTests.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +82,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/src/main/java/com/example/sfgpetclinic/model/Pet.java&#10;/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/src/main/java/com/example/sfgpetclinic/model/Person.java&#10;/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-web/src/main/java/SfgPetClinicApplication.java&#10;/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/.gitignore&#10;/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/src/main/java/com/example/sfgpetclinic/model/Vet.java" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pet-clinic-web/src/main/resources" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
@@ -78,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589730297274</updated>
-      <workItem from="1589730298556" duration="12765000" />
+      <workItem from="1589730298556" duration="14567000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1589732149863</created>
@@ -108,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589890628104</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding Base Entity -&gt; Id">
+      <created>1589892417477</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589892417477</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +169,8 @@
     <MESSAGE value="adding pojo" />
     <MESSAGE value="Maven release plugin and multimodule project" />
     <MESSAGE value="Implement Interfaces for Services." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement Interfaces for Services." />
+    <MESSAGE value="Adding Base Entity -&gt; Id" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Base Entity -&gt; Id" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -128,10 +178,10 @@
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
     <state x="2173" y="-89" key="#Auto_Import/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589890032107" />
-    <state x="1888" y="-59" key="#Project_Structure" timestamp="1589890820217">
+    <state x="1888" y="-59" key="#Project_Structure" timestamp="1589904058245">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="1888" y="-59" key="#Project_Structure/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589890820217" />
+    <state x="1888" y="-59" key="#Project_Structure/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589904058245" />
     <state x="2027" y="56" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589834028635">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
@@ -148,33 +198,33 @@
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
     <state x="2186" y="248" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589836281358" />
-    <state x="2007" y="-69" key="CommitChangelistDialog2" timestamp="1589890627968">
+    <state x="2007" y="-69" key="CommitChangelistDialog2" timestamp="1589892417346">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="2007" y="-69" key="CommitChangelistDialog2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589890627968" />
+    <state x="2007" y="-69" key="CommitChangelistDialog2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589892417346" />
     <state x="2218" y="268" key="Github.CreateGistDialog" timestamp="1589731980745">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
     <state x="2218" y="268" key="Github.CreateGistDialog/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589731980745" />
-    <state width="1920" height="312" key="GridCell.Tab.0.bottom" timestamp="1589888440414">
+    <state width="1920" height="312" key="GridCell.Tab.0.bottom" timestamp="1589903743797">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="1920" height="312" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888440414" />
+    <state width="1920" height="312" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589903743797" />
     <state width="1920" height="312" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888233974" />
-    <state width="1920" height="312" key="GridCell.Tab.0.center" timestamp="1589888440412">
+    <state width="1920" height="312" key="GridCell.Tab.0.center" timestamp="1589903743795">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="1920" height="312" key="GridCell.Tab.0.center/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888440412" />
+    <state width="1920" height="312" key="GridCell.Tab.0.center/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589903743795" />
     <state width="1920" height="312" key="GridCell.Tab.0.center/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888233973" />
-    <state width="1920" height="312" key="GridCell.Tab.0.left" timestamp="1589888440411">
+    <state width="1920" height="312" key="GridCell.Tab.0.left" timestamp="1589903743794">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="1920" height="312" key="GridCell.Tab.0.left/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888440411" />
+    <state width="1920" height="312" key="GridCell.Tab.0.left/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589903743794" />
     <state width="1920" height="312" key="GridCell.Tab.0.left/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888233972" />
-    <state width="1920" height="312" key="GridCell.Tab.0.right" timestamp="1589888440413">
+    <state width="1920" height="312" key="GridCell.Tab.0.right" timestamp="1589903743796">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="1920" height="312" key="GridCell.Tab.0.right/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888440413" />
+    <state width="1920" height="312" key="GridCell.Tab.0.right/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589903743796" />
     <state width="1920" height="312" key="GridCell.Tab.0.right/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888233974" />
     <state width="1920" height="312" key="GridCell.Tab.1.bottom" timestamp="1589887435994">
       <screen x="1440" y="-180" width="1920" height="1080" />
@@ -196,18 +246,22 @@
     </state>
     <state width="1920" height="312" key="GridCell.Tab.1.right/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589886513247" />
     <state width="1920" height="312" key="GridCell.Tab.1.right/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589887435993" />
-    <state x="1909" y="-1" key="SettingsEditor" timestamp="1589886081412">
+    <state x="1909" y="-1" key="SettingsEditor" timestamp="1589903732729">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="1909" y="-1" key="SettingsEditor/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589834075879" />
+    <state x="1909" y="-1" key="SettingsEditor/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589903732729" />
     <state x="1909" y="-1" key="SettingsEditor/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589886081412" />
-    <state x="2000" y="87" key="Vcs.Push.Dialog.v2" timestamp="1589890630420">
+    <state x="2000" y="87" key="Vcs.Push.Dialog.v2" timestamp="1589892418889">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="2000" y="87" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589890630420" />
+    <state x="2000" y="87" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589892418889" />
     <state x="1823" y="-18" key="new project wizard" timestamp="1589836206962">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
     <state x="1823" y="-18" key="new project wizard/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589836206962" />
+    <state x="2065" y="61" width="670" height="676" key="search.everywhere.popup" timestamp="1589904284297">
+      <screen x="1440" y="-180" width="1920" height="1080" />
+    </state>
+    <state x="2065" y="61" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589904284297" />
   </component>
 </project>
