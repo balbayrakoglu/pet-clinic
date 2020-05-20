@@ -24,8 +24,6 @@ w
 Gpet-clinic-data/src/main/java/com/example/sfgpetclinic/model/Owner.java,f/c/fc6fc1030c745bfae157f3ed45d9ad2cff6bf8d7
 F
 pet-clinic-web/pom.xml,0/3/032ca50b02fafe66044aef14aee29974c390637f
-‚
-Rpet-clinic-web/src/main/java/com/example/sfgpetclinic/SfgPetClinicApplication.java,7/9/795807381360071fe49fe1fe6701697f5256d619
 Q
 !pet-clinic-web/pet-clinic-web.iml,1/7/177b6763cafb113f71c8fea29ae1e5f007dba5df
 7
