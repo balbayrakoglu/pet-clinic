@@ -48,3 +48,5 @@ Vpet-clinic-data/src/main/java/com/example/sfgpetclinic/services/map/VetServiceM
 Upet-clinic-web/src/main/java/com/example/sfgpetclinic/controller/OwnerController.java,8/5/85c21431022ea9f3bb041ce46bb74d5c2c2890d8
 „
 Tpet-clinic-web/src/main/java/com/example/sfgpetclinic/controller/VetsController.java,9/3/9369f120ace64507e1ebd1d8c48dce556d7df1f6
+
+Opet-clinic-web/src/main/java/com/example/sfgpetclinic/bootstrap/DataLoader.java,2/5/25c4c900d5ad7a6cd0c9cadff186efbdead3b8f2
