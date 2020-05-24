@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9a60a79-5d2d-41c5-9b56-468a6d8952bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47a0758465c3e1276ebd4f8057cfeb00b7b44c62" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47a0758465c3e1276ebd4f8057cfeb00b7b44c62" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/6119151353aba27adf9164c6192619854a355f36" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/6119151353aba27adf9164c6192619854a355f36" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e68d557e6bccf18dcd5c3fd4247b0560557a2ca" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e68d557e6bccf18dcd5c3fd4247b0560557a2ca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9794f3cf41f7aac9d3080e69838d71bc6d01fa3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9794f3cf41f7aac9d3080e69838d71bc6d01fa3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/src/main/java/com/example/sfgpetclinic/model/Pet.java&#10;/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/src/main/java/com/example/sfgpetclinic/model/Person.java&#10;/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-web/src/main/java/SfgPetClinicApplication.java&#10;/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/.gitignore&#10;/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/src/main/java/com/example/sfgpetclinic/model/Vet.java" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pet-clinic-web/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -53,17 +48,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pet-clinic-data/src/main/resources" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources" />
       <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.sfgpetclinic.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pet-clinic-data/src/main/resources" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -114,7 +110,7 @@
       <workItem from="1590304199119" duration="538000" />
       <workItem from="1590307865075" duration="174000" />
       <workItem from="1590320837594" duration="174000" />
-      <workItem from="1590321066029" duration="1797000" />
+      <workItem from="1590321066029" duration="2535000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1589732149863</created>
@@ -214,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590266518586</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Static Resources">
+      <created>1590343081666</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590343081666</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +239,8 @@
     <MESSAGE value="Adding Spring configuration" />
     <MESSAGE value="Adding Vets and Pet list index // model.addAttributes" />
     <MESSAGE value="Auto Generate Map ID's" />
-    <option name="LAST_COMMIT_MESSAGE" value="Auto Generate Map ID's" />
+    <MESSAGE value="Static Resources" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static Resources" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -274,10 +278,10 @@
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
     <state x="2186" y="248" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589836281358" />
-    <state x="2007" y="-69" key="CommitChangelistDialog2" timestamp="1590266518405">
+    <state x="2007" y="-69" key="CommitChangelistDialog2" timestamp="1590343081422">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="2007" y="-69" key="CommitChangelistDialog2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590266518405" />
+    <state x="2007" y="-69" key="CommitChangelistDialog2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590343081422" />
     <state x="425" y="42" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590006939122" />
     <state x="1389" y="-72" width="1720" height="880" key="DiffContextDialog" timestamp="1590258754264">
       <screen x="1440" y="-180" width="1920" height="1080" />
@@ -374,10 +378,10 @@
     <state x="1909" y="-1" key="SettingsEditor/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589971216733" />
     <state x="1909" y="-1" key="SettingsEditor/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589886081412" />
     <state x="352" y="149" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1590304172353" />
-    <state x="2000" y="87" key="Vcs.Push.Dialog.v2" timestamp="1590266521624">
+    <state x="2000" y="87" key="Vcs.Push.Dialog.v2" timestamp="1590343134382">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="2000" y="87" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590266521624" />
+    <state x="2000" y="87" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590343134382" />
     <state x="420" y="223" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590006940738" />
     <state x="1540" y="-80" width="1720" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590258754265">
       <screen x="1440" y="-180" width="1920" height="1080" />
