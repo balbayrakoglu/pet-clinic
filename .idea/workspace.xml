@@ -20,61 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9a60a79-5d2d-41c5-9b56-468a6d8952bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/messages/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/messages/messages_de.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/messages/messages_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/messages/messages_fr.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/vizsla.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/banner.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/bootstrap/DataLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/montserrat-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/montserrat-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/montserrat-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/montserrat-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/varela_round-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/varela_round-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/varela_round-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/varela_round-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/images/pets.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/images/platform-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/images/spring-logo-dataflow-mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/images/spring-logo-dataflow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/images/spring-pivotal-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/fragments/inputField.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/fragments/layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/fragments/selectField.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/owners/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/vets/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/pet-clinic-data-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/pet-clinic-data-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/owners/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/owners/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/.wro4j/buildContext.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/.wro4j/buildContext.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/montserrat-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/montserrat-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/montserrat-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/montserrat-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/montserrat-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/montserrat-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/montserrat-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/montserrat-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/varela_round-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/varela_round-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/varela_round-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/varela_round-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/varela_round-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/varela_round-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/varela_round-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/varela_round-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/pets.png" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/pets.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/platform-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/platform-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/spring-logo-dataflow-mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/spring-logo-dataflow-mobile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/spring-logo-dataflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/spring-logo-dataflow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/spring-pivotal-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/spring-pivotal-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/fragments/inputField.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/fragments/inputField.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/owners/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/owners/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/fragments/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/fragments/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/vets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/vets/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/fragments/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/fragments/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/fragments/selectField.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/fragments/selectField.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-com.example.sfgpetclinic.SfgPetClinicApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-com.example.sfgpetclinic.SfgPetClinicApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/com.example.sfgpetclinic.SfgPetClinicApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/com.example.sfgpetclinic.SfgPetClinicApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/owners/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/owners/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +135,7 @@
       <workItem from="1590304199119" duration="538000" />
       <workItem from="1590307865075" duration="174000" />
       <workItem from="1590320837594" duration="174000" />
-      <workItem from="1590321066029" duration="7499000" />
+      <workItem from="1590321066029" duration="9017000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1589732149863</created>
@@ -312,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590350243037</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="View list">
+      <created>1590352135334</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590352135334</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,7 +307,8 @@
     <MESSAGE value="Copied Templates" />
     <MESSAGE value="wro4j plugin and config" />
     <MESSAGE value="application properties files" />
-    <option name="LAST_COMMIT_MESSAGE" value="application properties files" />
+    <MESSAGE value="View list" />
+    <option name="LAST_COMMIT_MESSAGE" value="View list" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -391,10 +350,10 @@
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
     <state x="2186" y="248" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589836281358" />
-    <state x="1790" y="-92" key="CommitChangelistDialog2" timestamp="1590350242858">
+    <state x="1790" y="-92" key="CommitChangelistDialog2" timestamp="1590352132687">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="1790" y="-92" key="CommitChangelistDialog2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590350242858" />
+    <state x="1790" y="-92" key="CommitChangelistDialog2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352132687" />
     <state x="425" y="42" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590006939122" />
     <state x="1389" y="-72" width="1720" height="880" key="DiffContextDialog" timestamp="1590258754264">
       <screen x="1440" y="-180" width="1920" height="1080" />
@@ -404,62 +363,62 @@
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
     <state x="2218" y="268" key="Github.CreateGistDialog/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589731980745" />
-    <state width="1878" height="358" key="GridCell.Tab.0.bottom" timestamp="1590351189320">
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom" timestamp="1590352837998">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="1878" height="358" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590351189320" />
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352837998" />
     <state width="1440" height="367" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590003207804" />
     <state width="960" height="384" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211908" />
-    <state width="1920" height="312" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888233974" />
-    <state width="1878" height="358" key="GridCell.Tab.0.center" timestamp="1590351189317">
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352028657" />
+    <state width="1878" height="358" key="GridCell.Tab.0.center" timestamp="1590352837997">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="1878" height="358" key="GridCell.Tab.0.center/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590351189317" />
+    <state width="1878" height="358" key="GridCell.Tab.0.center/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352837997" />
     <state width="1440" height="367" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590003207803" />
     <state width="960" height="384" key="GridCell.Tab.0.center/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211906" />
-    <state width="1920" height="312" key="GridCell.Tab.0.center/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888233973" />
-    <state width="1878" height="358" key="GridCell.Tab.0.left" timestamp="1590351189316">
+    <state width="1878" height="358" key="GridCell.Tab.0.center/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352028656" />
+    <state width="1878" height="358" key="GridCell.Tab.0.left" timestamp="1590352837996">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="1878" height="358" key="GridCell.Tab.0.left/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590351189316" />
+    <state width="1878" height="358" key="GridCell.Tab.0.left/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352837996" />
     <state width="1440" height="367" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590003207803" />
     <state width="960" height="384" key="GridCell.Tab.0.left/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211905" />
-    <state width="1920" height="312" key="GridCell.Tab.0.left/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888233972" />
-    <state width="1878" height="358" key="GridCell.Tab.0.right" timestamp="1590351189319">
+    <state width="1878" height="358" key="GridCell.Tab.0.left/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352028655" />
+    <state width="1878" height="358" key="GridCell.Tab.0.right" timestamp="1590352837997">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="1878" height="358" key="GridCell.Tab.0.right/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590351189319" />
+    <state width="1878" height="358" key="GridCell.Tab.0.right/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352837997" />
     <state width="1440" height="367" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590003207804" />
     <state width="960" height="384" key="GridCell.Tab.0.right/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211907" />
-    <state width="1920" height="312" key="GridCell.Tab.0.right/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888233974" />
-    <state width="1878" height="358" key="GridCell.Tab.1.bottom" timestamp="1590351189307">
+    <state width="1878" height="358" key="GridCell.Tab.0.right/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352028656" />
+    <state width="1878" height="358" key="GridCell.Tab.1.bottom" timestamp="1590352838002">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="1878" height="358" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590351189307" />
+    <state width="1878" height="358" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352838002" />
     <state width="1440" height="367" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590003207800" />
     <state width="960" height="384" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211731" />
-    <state width="1920" height="312" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589887435994" />
-    <state width="1878" height="358" key="GridCell.Tab.1.center" timestamp="1590351189304">
+    <state width="1878" height="358" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352028661" />
+    <state width="1878" height="358" key="GridCell.Tab.1.center" timestamp="1590352838000">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="1878" height="358" key="GridCell.Tab.1.center/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590351189304" />
+    <state width="1878" height="358" key="GridCell.Tab.1.center/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352838000" />
     <state width="1440" height="367" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590003207799" />
     <state width="960" height="384" key="GridCell.Tab.1.center/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211730" />
-    <state width="1920" height="312" key="GridCell.Tab.1.center/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589887435992" />
-    <state width="1878" height="358" key="GridCell.Tab.1.left" timestamp="1590351189303">
+    <state width="1878" height="358" key="GridCell.Tab.1.center/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352028659" />
+    <state width="1878" height="358" key="GridCell.Tab.1.left" timestamp="1590352837999">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="1878" height="358" key="GridCell.Tab.1.left/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590351189303" />
+    <state width="1878" height="358" key="GridCell.Tab.1.left/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352837999" />
     <state width="1440" height="367" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590003207799" />
     <state width="960" height="384" key="GridCell.Tab.1.left/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211729" />
-    <state width="1920" height="312" key="GridCell.Tab.1.left/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589887435992" />
-    <state width="1878" height="358" key="GridCell.Tab.1.right" timestamp="1590351189306">
+    <state width="1878" height="358" key="GridCell.Tab.1.left/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352028658" />
+    <state width="1878" height="358" key="GridCell.Tab.1.right" timestamp="1590352838001">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="1878" height="358" key="GridCell.Tab.1.right/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590351189306" />
+    <state width="1878" height="358" key="GridCell.Tab.1.right/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352838001" />
     <state width="1440" height="367" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590003207799" />
     <state width="960" height="384" key="GridCell.Tab.1.right/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211730" />
-    <state width="1920" height="312" key="GridCell.Tab.1.right/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589887435993" />
+    <state width="1878" height="358" key="GridCell.Tab.1.right/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352028660" />
     <state width="547" height="384" key="GridCell.Tab.2.bottom" timestamp="1590273295176">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
@@ -491,15 +450,19 @@
     <state x="1909" y="-1" key="SettingsEditor/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589971216733" />
     <state x="1909" y="-1" key="SettingsEditor/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589886081412" />
     <state x="352" y="149" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1590304172353" />
-    <state x="2000" y="87" key="Vcs.Push.Dialog.v2" timestamp="1590350244684">
+    <state x="2000" y="87" key="Vcs.Push.Dialog.v2" timestamp="1590352138817">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="2000" y="87" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590350244684" />
+    <state x="2000" y="87" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352138817" />
     <state x="420" y="223" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590006940738" />
     <state x="1540" y="-80" width="1720" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590258754265">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
     <state x="1540" y="-80" width="1720" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590258754265" />
+    <state x="1965" y="66" width="586" height="548" key="find.popup" timestamp="1590352647594">
+      <screen x="1440" y="-180" width="1920" height="1080" />
+    </state>
+    <state x="1965" y="66" width="586" height="548" key="find.popup/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352647594" />
     <state x="1823" y="-18" key="new project wizard" timestamp="1589836206962">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
@@ -508,10 +471,10 @@
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
     <state x="2065" y="165" key="run.anything.popup/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589971212416" />
-    <state x="2065" y="61" width="670" height="676" key="search.everywhere.popup" timestamp="1590351016125">
+    <state x="2065" y="61" width="670" height="676" key="search.everywhere.popup" timestamp="1590352720870">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="2065" y="61" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590351016125" />
+    <state x="2065" y="61" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590352720870" />
     <state x="469" y="201" width="670" height="564" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590005727970" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
