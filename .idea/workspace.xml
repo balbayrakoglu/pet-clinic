@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9a60a79-5d2d-41c5-9b56-468a6d8952bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/header.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/petclinic.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/responsive.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/typography.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/wro/wro.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/wro/wro.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/pet-clinic-data-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/pet-clinic-data-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-com.example.sfgpetclinic.SfgPetClinicApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-com.example.sfgpetclinic.SfgPetClinicApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/com.example.sfgpetclinic.SfgPetClinicApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/com.example.sfgpetclinic.SfgPetClinicApplicationTests.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +56,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/src/main/java/com/example/sfgpetclinic/model/Pet.java&#10;/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/src/main/java/com/example/sfgpetclinic/model/Person.java&#10;/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-web/src/main/java/SfgPetClinicApplication.java&#10;/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/.gitignore&#10;/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/src/main/java/com/example/sfgpetclinic/model/Vet.java" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pet-clinic-web/src/main" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -52,6 +68,8 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pet-clinic-web/src/main" />
+      <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates" />
       <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources" />
       <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources" />
     </key>
@@ -110,7 +128,7 @@
       <workItem from="1590304199119" duration="538000" />
       <workItem from="1590307865075" duration="174000" />
       <workItem from="1590320837594" duration="174000" />
-      <workItem from="1590321066029" duration="2535000" />
+      <workItem from="1590321066029" duration="4677000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1589732149863</created>
@@ -217,11 +235,29 @@
       <option name="project" value="LOCAL" />
       <updated>1590343081666</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Copied Templates">
+      <created>1590343819127</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590343819127</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -240,7 +276,8 @@
     <MESSAGE value="Adding Vets and Pet list index // model.addAttributes" />
     <MESSAGE value="Auto Generate Map ID's" />
     <MESSAGE value="Static Resources" />
-    <option name="LAST_COMMIT_MESSAGE" value="Static Resources" />
+    <MESSAGE value="Copied Templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Copied Templates" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -262,6 +299,10 @@
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
     <state x="2027" y="56" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589834028635" />
+    <state x="1968" y="31" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1590345876960">
+      <screen x="1440" y="-180" width="1920" height="1080" />
+    </state>
+    <state x="1968" y="31" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590345876960" />
     <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1590320968322">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -278,10 +319,10 @@
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
     <state x="2186" y="248" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589836281358" />
-    <state x="2007" y="-69" key="CommitChangelistDialog2" timestamp="1590343081422">
+    <state x="2007" y="-69" key="CommitChangelistDialog2" timestamp="1590343818960">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="2007" y="-69" key="CommitChangelistDialog2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590343081422" />
+    <state x="2007" y="-69" key="CommitChangelistDialog2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590343818960" />
     <state x="425" y="42" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590006939122" />
     <state x="1389" y="-72" width="1720" height="880" key="DiffContextDialog" timestamp="1590258754264">
       <screen x="1440" y="-180" width="1920" height="1080" />
@@ -378,10 +419,10 @@
     <state x="1909" y="-1" key="SettingsEditor/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589971216733" />
     <state x="1909" y="-1" key="SettingsEditor/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589886081412" />
     <state x="352" y="149" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1590304172353" />
-    <state x="2000" y="87" key="Vcs.Push.Dialog.v2" timestamp="1590343134382">
+    <state x="2000" y="87" key="Vcs.Push.Dialog.v2" timestamp="1590343823761">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="2000" y="87" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590343134382" />
+    <state x="2000" y="87" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590343823761" />
     <state x="420" y="223" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590006940738" />
     <state x="1540" y="-80" width="1720" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590258754265">
       <screen x="1440" y="-180" width="1920" height="1080" />
