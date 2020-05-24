@@ -1,24 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b9a60a79-5d2d-41c5-9b56-468a6d8952bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/header.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/petclinic.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/responsive.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/typography.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/wro/wro.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/wro/wro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25c4c900d5ad7a6cd0c9cadff186efbdead3b8f2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85c21431022ea9f3bb041ce46bb74d5c2c2890d8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/9369f120ace64507e1ebd1d8c48dce556d7df1f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/bootstrap/DataLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/model/BaseEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/services/CrudService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/services/OwnerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/services/PetService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/services/VetService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/services/map/AbstractMapService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/services/map/OwnerServiceMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/services/map/PetServiceMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/example/sfgpetclinic/services/map/VetServiceMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/montserrat-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/montserrat-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/montserrat-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/montserrat-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/varela_round-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/varela_round-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/varela_round-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/fonts/varela_round-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/images/pets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/images/platform-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/images/spring-logo-dataflow-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/images/spring-logo-dataflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/static/resources/images/spring-pivotal-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/fragments/inputField.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/fragments/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/fragments/selectField.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/owners/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/target/classes/templates/vets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/.wro4j/buildContext.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/com/example/sfgpetclinic/SfgPetClinicApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/com/example/sfgpetclinic/bootstrap/DataLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/com/example/sfgpetclinic/controller/IndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/com/example/sfgpetclinic/controller/OwnerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/com/example/sfgpetclinic/controller/VetsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/css/petclinic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/montserrat-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/montserrat-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/montserrat-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/montserrat-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/varela_round-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/varela_round-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/varela_round-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/fonts/varela_round-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/pets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/platform-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/spring-logo-dataflow-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/spring-logo-dataflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/images/spring-pivotal-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/fragments/inputField.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/fragments/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/fragments/selectField.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/owners/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/vets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/target/test-classes/com/example/sfgpetclinic/SfgPetClinicApplicationTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/pet-clinic-data-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/pet-clinic-data-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-com.example.sfgpetclinic.SfgPetClinicApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-com.example.sfgpetclinic.SfgPetClinicApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/com.example.sfgpetclinic.SfgPetClinicApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/com.example.sfgpetclinic.SfgPetClinicApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +197,7 @@
       <workItem from="1590304199119" duration="538000" />
       <workItem from="1590307865075" duration="174000" />
       <workItem from="1590320837594" duration="174000" />
-      <workItem from="1590321066029" duration="4677000" />
+      <workItem from="1590321066029" duration="6052000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1589732149863</created>
@@ -242,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590343819127</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="wro4j plugin and config">
+      <created>1590346104026</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590346104026</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,7 +353,8 @@
     <MESSAGE value="Auto Generate Map ID's" />
     <MESSAGE value="Static Resources" />
     <MESSAGE value="Copied Templates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Copied Templates" />
+    <MESSAGE value="wro4j plugin and config" />
+    <option name="LAST_COMMIT_MESSAGE" value="wro4j plugin and config" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -319,10 +396,10 @@
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
     <state x="2186" y="248" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589836281358" />
-    <state x="2007" y="-69" key="CommitChangelistDialog2" timestamp="1590343818960">
+    <state x="1790" y="-92" key="CommitChangelistDialog2" timestamp="1590346101882">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="2007" y="-69" key="CommitChangelistDialog2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590343818960" />
+    <state x="1790" y="-92" key="CommitChangelistDialog2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590346101882" />
     <state x="425" y="42" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590006939122" />
     <state x="1389" y="-72" width="1720" height="880" key="DiffContextDialog" timestamp="1590258754264">
       <screen x="1440" y="-180" width="1920" height="1080" />
@@ -332,59 +409,59 @@
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
     <state x="2218" y="268" key="Github.CreateGistDialog/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589731980745" />
-    <state width="547" height="384" key="GridCell.Tab.0.bottom" timestamp="1590273295159">
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom" timestamp="1590346794254">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="547" height="384" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590273295159" />
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590346794254" />
     <state width="1440" height="367" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590003207804" />
     <state width="960" height="384" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211908" />
     <state width="1920" height="312" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888233974" />
-    <state width="547" height="384" key="GridCell.Tab.0.center" timestamp="1590273295154">
+    <state width="1878" height="358" key="GridCell.Tab.0.center" timestamp="1590346794253">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="547" height="384" key="GridCell.Tab.0.center/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590273295154" />
+    <state width="1878" height="358" key="GridCell.Tab.0.center/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590346794253" />
     <state width="1440" height="367" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590003207803" />
     <state width="960" height="384" key="GridCell.Tab.0.center/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211906" />
     <state width="1920" height="312" key="GridCell.Tab.0.center/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888233973" />
-    <state width="547" height="384" key="GridCell.Tab.0.left" timestamp="1590273295136">
+    <state width="1878" height="358" key="GridCell.Tab.0.left" timestamp="1590346794252">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="547" height="384" key="GridCell.Tab.0.left/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590273295136" />
+    <state width="1878" height="358" key="GridCell.Tab.0.left/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590346794252" />
     <state width="1440" height="367" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590003207803" />
     <state width="960" height="384" key="GridCell.Tab.0.left/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211905" />
     <state width="1920" height="312" key="GridCell.Tab.0.left/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888233972" />
-    <state width="547" height="384" key="GridCell.Tab.0.right" timestamp="1590273295157">
+    <state width="1878" height="358" key="GridCell.Tab.0.right" timestamp="1590346794253">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="547" height="384" key="GridCell.Tab.0.right/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590273295157" />
+    <state width="1878" height="358" key="GridCell.Tab.0.right/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590346794253" />
     <state width="1440" height="367" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590003207804" />
     <state width="960" height="384" key="GridCell.Tab.0.right/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211907" />
     <state width="1920" height="312" key="GridCell.Tab.0.right/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589888233974" />
-    <state width="547" height="384" key="GridCell.Tab.1.bottom" timestamp="1590273295168">
+    <state width="1878" height="358" key="GridCell.Tab.1.bottom" timestamp="1590346794257">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="547" height="384" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590273295168" />
+    <state width="1878" height="358" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590346794257" />
     <state width="1440" height="367" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590003207800" />
     <state width="960" height="384" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211731" />
     <state width="1920" height="312" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589887435994" />
-    <state width="547" height="384" key="GridCell.Tab.1.center" timestamp="1590273295166">
+    <state width="1878" height="358" key="GridCell.Tab.1.center" timestamp="1590346794256">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="547" height="384" key="GridCell.Tab.1.center/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590273295166" />
+    <state width="1878" height="358" key="GridCell.Tab.1.center/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590346794256" />
     <state width="1440" height="367" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590003207799" />
     <state width="960" height="384" key="GridCell.Tab.1.center/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211730" />
     <state width="1920" height="312" key="GridCell.Tab.1.center/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589887435992" />
-    <state width="547" height="384" key="GridCell.Tab.1.left" timestamp="1590273295162">
+    <state width="1878" height="358" key="GridCell.Tab.1.left" timestamp="1590346794255">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="547" height="384" key="GridCell.Tab.1.left/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590273295162" />
+    <state width="1878" height="358" key="GridCell.Tab.1.left/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590346794255" />
     <state width="1440" height="367" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590003207799" />
     <state width="960" height="384" key="GridCell.Tab.1.left/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211729" />
     <state width="1920" height="312" key="GridCell.Tab.1.left/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589887435992" />
-    <state width="547" height="384" key="GridCell.Tab.1.right" timestamp="1590273295167">
+    <state width="1878" height="358" key="GridCell.Tab.1.right" timestamp="1590346794256">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state width="547" height="384" key="GridCell.Tab.1.right/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590273295167" />
+    <state width="1878" height="358" key="GridCell.Tab.1.right/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590346794256" />
     <state width="1440" height="367" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590003207799" />
     <state width="960" height="384" key="GridCell.Tab.1.right/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1590262211730" />
     <state width="1920" height="312" key="GridCell.Tab.1.right/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589887435993" />
@@ -419,10 +496,10 @@
     <state x="1909" y="-1" key="SettingsEditor/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589971216733" />
     <state x="1909" y="-1" key="SettingsEditor/0.23.1440.877/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1589886081412" />
     <state x="352" y="149" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1590304172353" />
-    <state x="2000" y="87" key="Vcs.Push.Dialog.v2" timestamp="1590343823761">
+    <state x="2000" y="87" key="Vcs.Push.Dialog.v2" timestamp="1590346106541">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="2000" y="87" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590343823761" />
+    <state x="2000" y="87" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1590346106541" />
     <state x="420" y="223" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590006940738" />
     <state x="1540" y="-80" width="1720" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590258754265">
       <screen x="1440" y="-180" width="1920" height="1080" />
