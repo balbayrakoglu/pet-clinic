@@ -1,6 +1,7 @@
 /Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/CrudService.java
 /Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/map/AbstractMapService.java
 /Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/model/Vet.java
+/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/model/Speciality.java
 /Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/map/PetServiceMap.java
 /Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/model/Person.java
 /Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/PetService.java
@@ -8,7 +9,12 @@
 /Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/map/VetServiceMap.java
 /Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/OwnerService.java
 /Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/model/Owner.java
+/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/PetTypeService.java
 /Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/model/Pet.java
 /Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/model/BaseEntity.java
+/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/map/PetTypeMapService.java
 /Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/model/PetType.java
 /Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/VetService.java
+/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/map/SpecialityMapService.java
+/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/services/SpecialityService.java
+/Users/burakalbayrakoglu/Downloads/Projeler/Pet-Clinic/pet-clinic-data/src/main/java/com/example/sfgpetclinic/model/Visit.java
